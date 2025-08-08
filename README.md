@@ -1,2 +1,3 @@
 ﻿# Calculator-App
-Just a simple, console, calculator app, with conversion of units :)
+Just a simple, console, calculator app :)
+
