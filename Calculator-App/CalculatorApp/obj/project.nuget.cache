@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDfTm5OWklg=",
+  "success": true,
+  "projectFilePath": "/home/kaboomthefurry/Desktop/Projects/C#/Calculator-App/Calculator-App/CalculatorApp/CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/kaboomthefurry/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.16/microsoft.netcore.app.host.linux-x64.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
